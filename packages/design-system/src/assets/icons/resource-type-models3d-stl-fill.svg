@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 384 512"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) -->
+  <g
+     id="g6" />
+  <g
+     id="g11797"
+     transform="matrix(26.861997,0,0,26.861997,-135.9647,-9.846544)"
+     style="stroke:#ffffff;stroke-width:0.96791;fill:#000000;fill-opacity:1">
+    <g
+       id="rect7956-6"
+       style="opacity:0.99;fill:none;stroke:#ffffff;stroke-width:1.15829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.64280024,0,0,0.64280024,16.555899,0.89202553)">
+      <path
+         id="path34163-4"
+         style="color:#000000;opacity:0.99;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15829;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:none"
+         d="m -7.476966,8.9752771 a 0.57920293,0.57920293 0 0 0 -0.486328,0.027344 l -2.841798,1.5253909 -0.0078,0.0039 a 0.57920293,0.57920293 0 0 0 -0.01172,0.02148 0.57920293,0.57920293 0 0 0 -0.277344,0.355468 l -1.398449,5.890625 a 0.57920293,0.57920293 0 0 0 0.34961,0.671874 l 6.259766,2.476563 a 0.57920293,0.57920293 0 0 0 0.482422,-0.02734 0.57920293,0.57920293 0 0 0 0.0039,0 l 2.849609,-1.529297 a 0.57920293,0.57920293 0 0 0 0.289062,-0.376953 l 1.40039095,-5.890625 a 0.57920293,0.57920293 0 0 0 -0.0293,-0.191406 0.57920293,0.57920293 0 0 0 -0.03125,-0.207031 0.57920293,0.57920293 0 0 0 -0.15039095,-0.142578 0.57920293,0.57920293 0 0 0 -0.140625,-0.13086 z m -0.175781,1.1757809 4.849609,1.917969 -1.511719,0.810547 -4.849609,-1.916016 z m -2.476564,1.675781 5.171876,2.046875 -1.128906,4.751953 -5.171876,-2.046875 z m 7.839845,1.28125 -1.042969,4.386719 -1.484375,0.794922 1.041016,-4.384766 z M 4.357482,6.5932138 V 6.2400474 c 0,-0.364743 -0.144788,-0.717909 -0.4054,-0.978439 l -5.669808,-5.67379898 c -0.260614,-0.260532 -0.613892,-0.405272 -0.984544,-0.405272 H -3.055546 V 6.5932138 Z M -4.908803,-0.81746258 V 7.0563798 c 0,0.7642264 0.625476,1.389502 1.389942,1.389502 H 4.357482 V 27.435737 c 0,0.770015 -0.619682,1.389502 -1.389942,1.389502 h -19.4592 c -0.77026,0 -1.389943,-0.619487 -1.389943,-1.389502 V 0.57203942 c 0,-0.770015 0.619683,-1.389502 1.389943,-1.389502 z" />
+    </g>
+    <rect
+       ry="0.37125891"
+       y="14.346981"
+       x="5.5331087"
+       height="4.6142178"
+       width="13.391838"
+       id="rect5688"
+       style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.226788;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4990"
+       y="18.271194"
+       x="8.0968027"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.50096px;line-height:1.25;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a22d;fill-opacity:1;stroke:none;stroke-width:0.112524"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.50096px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00a22d;fill-opacity:1;stroke-width:0.112524"
+         y="18.271194"
+         x="8.0968027"
+         id="tspan4988">STL</tspan></text>
+  </g>
+</svg>

@@ -212,6 +212,14 @@ const fileIcon = {
   board: {
     icon: { name: 'resource-type-board' },
     extensions: ['ggs']
+  },
+  models3d: {
+    icon: { name: 'resource-type-models3d' },
+    extensions: ['obj','fbx']
+  },
+  models3d_stl: {
+    icon: { name: 'resource-type-models3d-stl' },
+    extensions: ['stl']
   }
 }
 
